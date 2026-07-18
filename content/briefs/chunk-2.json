@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "colorado-personal-injury-lawyer",
+  "keyword": "colorado personal injury attorney",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 8,
+  "difficulty": 8,
+  "value": 10,
+  "opportunity": 10,
+  "angle": "what changed in 2025 (caps); choosing counsel; contingency basics"
+ },
+ {
+  "slug": "colorado-truck-accident-lawyer",
+  "keyword": "colorado truck accident lawyer",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 6,
+  "difficulty": 7,
+  "value": 10,
+  "opportunity": 8.6,
+  "angle": "mountain grades + runaway ramps; chain law violations; broker/shipper liability"
+ },
+ {
+  "slug": "colorado-motorcycle-accident-lawyer",
+  "keyword": "colorado motorcycle accident lawyer",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 5,
+  "difficulty": 6,
+  "value": 9,
+  "opportunity": 7.5,
+  "angle": "canyon rides; gravel/road-condition claims vs govt immunity notice"
+ },
+ {
+  "slug": "colorado-wrongful-death-lawyer",
+  "keyword": "colorado wrongful death lawyer",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 5,
+  "difficulty": 7,
+  "value": 10,
+  "opportunity": 7.1,
+  "angle": "two-year window structure; heir priority year one/two; caps + felonious killing exception"
+ },
+ {
+  "slug": "colorado-semi-truck-accident-lawyer",
+  "keyword": "semi truck accident lawyer colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 6,
+  "value": 10,
+  "opportunity": 6.7,
+  "angle": "ELD/black box data; I-70 mountain corridor wrecks; spoliation letters day one"
+ },
+ {
+  "slug": "colorado-dog-bite-lawyer",
+  "keyword": "colorado dog bite law attorney",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 5,
+  "value": 8,
+  "opportunity": 6.4,
+  "angle": "CRS 13-21-124 strict liability scope; one-bite vs negligence routes"
+ },
+ {
+  "slug": "colorado-slip-and-fall-lawyer",
+  "keyword": "colorado slip and fall attorney",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 5,
+  "value": 8,
+  "opportunity": 6.4,
+  "angle": "CPLA as exclusive remedy; ski-town sidewalk ice; notice of dangerous condition"
+ },
+ {
+  "slug": "colorado-pedestrian-accident-lawyer",
+  "keyword": "colorado pedestrian accident attorney",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 7.2,
+  "angle": "rural highway fatalities; crosswalk statutes; insurance layers"
+ },
+ {
+  "slug": "colorado-bicycle-accident-lawyer",
+  "keyword": "colorado bicycle accident lawyer",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 8,
+  "opportunity": 4.8,
+  "angle": "CDOT bike routes; Safety Stop law (2022); mountain-road descents"
+ },
+ {
+  "slug": "colorado-rideshare-accident-lawyer",
+  "keyword": "rideshare accident lawyer colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 6.8,
+  "angle": "TNC statute insurance tiers; claims vs both apps and drivers"
+ }
+]

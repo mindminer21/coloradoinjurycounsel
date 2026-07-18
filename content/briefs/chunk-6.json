@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "thornton-car-accident-lawyer",
+  "keyword": "thornton car accident lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "I-25 north metro; Adams county"
+ },
+ {
+  "slug": "westminster-car-accident-lawyer",
+  "keyword": "westminster car accident lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "US-36 corridor; mixed Jeffco/Adams venue"
+ },
+ {
+  "slug": "arvada-car-accident-lawyer",
+  "keyword": "arvada car accident lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "Wadsworth corridor; Jeffco"
+ },
+ {
+  "slug": "castle-rock-car-accident-lawyer",
+  "keyword": "castle rock car accident lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "I-25 Douglas county; commuter crash patterns"
+ },
+ {
+  "slug": "colorado-ski-accident-lawyer",
+  "keyword": "colorado ski accident lawyer",
+  "cluster": "mountain",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 7.2,
+  "angle": "Ski Safety Act duties + inherent risk limits; collision vs avalanche vs lift claims"
+ },
+ {
+  "slug": "vail-ski-accident-lawyer",
+  "keyword": "vail ski accident lawyer",
+  "cluster": "mountain",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 4.5,
+  "angle": "Eagle county; resort waiver limits; skier collision fault rules"
+ },
+ {
+  "slug": "breckenridge-ski-accident-lawyer",
+  "keyword": "breckenridge ski accident lawyer",
+  "cluster": "mountain",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "Summit county; terrain-park injuries; season-pass waivers"
+ },
+ {
+  "slug": "colorado-snowboard-accident-lawyer",
+  "keyword": "snowboard accident lawyer colorado",
+  "cluster": "mountain",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 2.7,
+  "angle": "park features; uphill-downhill right of way"
+ },
+ {
+  "slug": "colorado-ski-lift-accident-lawyer",
+  "keyword": "ski lift accident lawyer colorado",
+  "cluster": "mountain",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 3,
+  "angle": "common-carrier-like duties; Tramway Board; loading/unloading claims"
+ },
+ {
+  "slug": "i-70-mountain-corridor-accident-lawyer",
+  "keyword": "i-70 accident lawyer colorado",
+  "cluster": "mountain",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "Eisenhower–Floyd Hill; chain law; runaway trucks; multi-car pileups"
+ }
+]

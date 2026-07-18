@@ -1,0 +1,101 @@
+[
+ {
+  "slug": "colorado-comparative-negligence",
+  "keyword": "colorado comparative negligence 50 percent rule",
+  "cluster": "law",
+  "intent": "research",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "modified comparative bar; adjuster fault-shifting tactics"
+ },
+ {
+  "slug": "colorado-wrongful-death-statute",
+  "keyword": "colorado wrongful death statute who can sue",
+  "cluster": "law",
+  "intent": "research",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 4.5,
+  "angle": "CRS 13-21-201 order of heirs; 2025 sibling addition; caps + exceptions"
+ },
+ {
+  "slug": "colorado-car-insurance-minimums",
+  "keyword": "colorado minimum car insurance and injury claims",
+  "cluster": "law",
+  "intent": "research",
+  "demand": 3,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 8,
+  "angle": "25/50/15 limits; why UM/UIM matters; MedPay $5k default offer"
+ },
+ {
+  "slug": "colorado-dram-shop-law",
+  "keyword": "colorado dram shop law bar liability",
+  "cluster": "law",
+  "intent": "research",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 2.7,
+  "angle": "willfully serving visibly intoxicated; $150k-ish cap context (verify current); notice"
+ },
+ {
+  "slug": "colorado-governmental-immunity-injury-claims",
+  "keyword": "suing the government for injury colorado CGIA",
+  "cluster": "law",
+  "intent": "research",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 2.7,
+  "angle": "182-day notice; waived immunity categories; damage caps vs private claims"
+ },
+ {
+  "slug": "denver-taxi-delivery-accident-lawyer",
+  "keyword": "delivery truck accident lawyer denver",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "Amazon/FedEx contractor webs; app-based driver coverage gaps"
+ },
+ {
+  "slug": "colorado-train-accident-lawyer",
+  "keyword": "train accident lawyer colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 3,
+  "angle": "FELA vs passenger claims; crossing design; light-rail (RTD) notice"
+ },
+ {
+  "slug": "colorado-atv-accident-lawyer",
+  "keyword": "atv accident lawyer colorado",
+  "cluster": "mountain",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 2,
+  "value": 8,
+  "opportunity": 4,
+  "angle": "OHV trail rules; rental waivers; rollover engineering"
+ },
+ {
+  "slug": "colorado-daycare-injury-lawyer",
+  "keyword": "daycare injury lawyer colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 3,
+  "angle": "licensing standards; supervision ratios; reporting duties"
+ }
+]

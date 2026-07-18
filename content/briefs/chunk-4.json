@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "colorado-work-injury-third-party-lawyer",
+  "keyword": "third party work injury lawyer colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 4.5,
+  "angle": "beyond workers comp: subcontractors, drivers, equipment makers; comp lien handling"
+ },
+ {
+  "slug": "colorado-oilfield-accident-lawyer",
+  "keyword": "oilfield injury lawyer colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "Weld County energy corridor; contractor webs; OSHA evidence"
+ },
+ {
+  "slug": "colorado-amputation-injury-lawyer",
+  "keyword": "amputation injury lawyer colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 10,
+  "opportunity": 3.3,
+  "angle": "prosthetic lifetime costs; vocational loss; catastrophic band"
+ },
+ {
+  "slug": "colorado-whiplash-injury-lawyer",
+  "keyword": "whiplash injury claim colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 7,
+  "opportunity": 5.3,
+  "angle": "soft-tissue skepticism; treatment gaps; documentation playbook"
+ },
+ {
+  "slug": "colorado-springs-car-accident-lawyer",
+  "keyword": "colorado springs car accident lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 7,
+  "difficulty": 7,
+  "value": 10,
+  "opportunity": 10,
+  "angle": "I-25 Gap history; military family considerations (SCRA); El Paso County courts"
+ },
+ {
+  "slug": "colorado-springs-personal-injury-lawyer",
+  "keyword": "colorado springs personal injury lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 6,
+  "difficulty": 7,
+  "value": 10,
+  "opportunity": 8.6,
+  "angle": "Springs growth = crash growth; local venue notes"
+ },
+ {
+  "slug": "colorado-springs-motorcycle-accident-lawyer",
+  "keyword": "motorcycle accident lawyer colorado springs",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 5.4,
+  "angle": "front-range canyon rides; military rider community"
+ },
+ {
+  "slug": "aurora-car-accident-lawyer",
+  "keyword": "aurora car accident lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 5,
+  "difficulty": 6,
+  "value": 9,
+  "opportunity": 7.5,
+  "angle": "Colfax/225 corridors; Arapahoe & Adams county split venue"
+ },
+ {
+  "slug": "aurora-personal-injury-lawyer",
+  "keyword": "aurora personal injury lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 6,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "diverse community access; interpreter-friendly process"
+ },
+ {
+  "slug": "fort-collins-car-accident-lawyer",
+  "keyword": "fort collins car accident lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 7.2,
+  "angle": "I-25 north corridor; CSU student drivers; Larimer county"
+ }
+]

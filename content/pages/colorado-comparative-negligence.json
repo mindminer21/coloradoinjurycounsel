@@ -1,0 +1,75 @@
+{
+  "slug": "colorado-comparative-negligence",
+  "keyword": "colorado comparative negligence 50 percent rule",
+  "cluster": "law",
+  "title": "Colorado Comparative Negligence Rules | Whiteford",
+  "metaDescription": "How Colorado's modified comparative negligence rule works, how adjusters use it to shift blame, and how to protect your recovery. Free consult: (720) 821-3784.",
+  "h1": "Colorado's Comparative Negligence Rule, Explained",
+  "heroSub": "In Colorado, being partly at fault doesn't automatically end your claim — but insurers work hard to make you believe it does. Here's how shared fault actually works, in plain English.",
+  "heroEyebrow": "Colorado Law · Fault Rules",
+  "intro": [
+    "Almost every injured person we talk to worries about the same thing: 'What if some of this was my fault?' Maybe you were a little over the speed limit when someone ran the light. Maybe you glanced at your phone in the seconds before the crash. Insurance adjusters know this worry exists, and they lean on it — hard.",
+    "Colorado uses a modified comparative negligence system. In short: your compensation is reduced in proportion to your share of the blame, and you lose the right to recover entirely only if your share of fault reaches the point where you are as responsible as — or more responsible than — the people you're claiming against. Below that threshold, partial fault reduces a case; it does not erase one.",
+    "That threshold is exactly why fault allocation becomes the central battlefield in so many Colorado injury claims. This page explains how the rule works, the tactics adjusters use to inflate your share of blame, and what a properly built case does about it."
+  ],
+  "sections": [
+    {
+      "heading": "How Colorado's modified system actually works",
+      "paragraphs": [
+        "In a comparative negligence state, a jury (or, in settlement talks, the negotiating parties) assigns each person involved a percentage share of fault for what happened. Your recovery is then reduced by your share. The 'modified' part is Colorado's cutoff: once your share of fault equals or exceeds the combined fault of those you're suing, recovery is barred completely. That makes small shifts in fault allocation enormously consequential — a few points of blame moved in either direction can change what a case is worth, or whether it exists at all.",
+        "Fault can also be spread across multiple defendants. In a chain-reaction crash or a case involving both a driver and a business, each party's share gets weighed. Colorado juries can even assign fault to people who aren't in the courtroom — a 'nonparty at fault' the defense designates — which is a favorite defense maneuver for diluting responsibility."
+      ]
+    },
+    {
+      "heading": "The adjuster's playbook: manufacturing your share of fault",
+      "paragraphs": [
+        "Because the comparative-fault bar exists, shifting blame onto the injured person is the single highest-leverage move an insurance company can make. It doesn't need to prove you caused the crash — it just needs to nudge your share of fault upward until your claim shrinks or dies. This is rarely announced. It shows up quietly, in how questions are framed and which facts get emphasized.",
+        "The recorded statement is the primary tool. Innocent-sounding questions — 'How fast would you say you were going?' 'When did you first see the other car?' 'Were you in a hurry?' — are designed to generate answers that can later be characterized as admissions of inattention or speed. Vague, cooperative answers given in the fog after a crash become fault percentages in a claims file."
+      ],
+      "bullets": [
+        "Requesting a recorded statement within days, before you've spoken to anyone on your side",
+        "Framing normal driving behavior — changing lanes, proceeding on green — as 'failure to avoid' the crash",
+        "Designating absent people as nonparties at fault to dilute their insured's share",
+        "Citing minor traffic citations against you as if a ticket settled the fault question, which it doesn't",
+        "Making a low offer 'because of your comparative fault' without ever explaining how that number was assigned"
+      ]
+    },
+    {
+      "heading": "How real fault fights get won",
+      "paragraphs": [
+        "Fault percentages aren't handed down from above — they're argued from evidence. Skid marks, vehicle damage patterns, event-data-recorder downloads, intersection camera footage, and witness statements all constrain the story a defense can credibly tell. The side that gathers this evidence early, before it disappears, usually controls the allocation debate. That is much of what an injury lawyer actually does in a contested-fault case.",
+        "If an adjuster has told you that you were partly — or mostly — to blame, treat that as an opening position, not a verdict. A free consultation with our Denver-based team costs nothing and will give you an honest read on how fault is likely to be allocated. Our free case estimator is another pressure-free way to think through how shared fault interacts with the rest of your claim before you talk to anyone."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "If I was partly at fault for my accident, do I still have a case in Colorado?",
+      "a": "Usually, yes. Colorado's modified comparative negligence rule reduces your recovery in proportion to your share of fault — it only bars recovery entirely once your share reaches the point where you're as much or more to blame than the parties you're claiming against. Insurers routinely tell partially-at-fault people they have no case when the law says otherwise. Before accepting that characterization, get an independent read on how fault would realistically be allocated from the evidence."
+    },
+    {
+      "q": "Who decides what percentage of fault I carry?",
+      "a": "Ultimately, a jury does — but the vast majority of claims settle, so in practice fault percentages are negotiated between your representative and the insurance company, each arguing from the evidence. That's why evidence quality matters so much: camera footage, vehicle data, crash reconstruction, and witness accounts all narrow the range of fault stories the defense can plausibly tell. Without that work, the adjuster's allocation tends to become the default."
+    },
+    {
+      "q": "I got a traffic ticket after the crash. Does that decide fault against me?",
+      "a": "No. A citation is one piece of evidence, not a legal determination of civil fault, and the officer who wrote it usually didn't witness the crash. Plenty of injury claims succeed even when the injured person was ticketed, because the other side's conduct — speeding, distraction, impairment — carried more of the blame. The reverse is also true: the other driver's ticket helps you but doesn't finish the argument by itself."
+    },
+    {
+      "q": "The adjuster says I was 'mostly at fault.' Should I believe them?",
+      "a": "Be skeptical. The adjuster works for the company that pays if you recover, and inflating your share of fault is the most direct way to shrink or eliminate that payment. Ask what evidence supports their allocation — often it's little more than your own recorded statement, interpreted uncharitably. An attorney can re-examine the evidence, commission reconstruction work where warranted, and push the allocation back toward what the facts support."
+    },
+    {
+      "q": "How does comparative fault affect a settlement, not just a trial?",
+      "a": "Settlement value is essentially a prediction of what a jury would do, discounted for risk. If the defense can credibly argue your fault share is high, every dollar of the claim gets discounted accordingly — and if they can push you near the bar, they may offer very little at all. Strengthening the fault evidence raises the credible floor of your allocation, which raises settlement value directly. Fault work and value work are the same work."
+    }
+  ],
+  "related": [
+    "colorado-personal-injury-laws-2025",
+    "colorado-statute-of-limitations-car-accident",
+    "colorado-noneconomic-damages-cap",
+    "colorado-car-accident-lawyer",
+    "should-i-accept-first-settlement-offer-colorado",
+    "what-is-my-case-worth-colorado"
+  ]
+}

@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "denver-personal-injury-lawyer",
+  "keyword": "denver personal injury lawyer",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 9,
+  "difficulty": 9,
+  "value": 10,
+  "opportunity": 10,
+  "angle": "full-spectrum PI triage in Denver; when a case justifies counsel; Whiteford platform depth"
+ },
+ {
+  "slug": "denver-truck-accident-lawyer",
+  "keyword": "denver truck accident lawyer",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 7,
+  "difficulty": 8,
+  "value": 10,
+  "opportunity": 8.8,
+  "angle": "commercial carriers on I-70/I-76; federal motor carrier rules; evidence preservation letters"
+ },
+ {
+  "slug": "denver-motorcycle-accident-lawyer",
+  "keyword": "denver motorcycle accident lawyer",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 6,
+  "difficulty": 7,
+  "value": 9,
+  "opportunity": 7.7,
+  "angle": "bias against riders; helmet law nuance (CO adults not required); lane visibility crashes on Federal/Colfax"
+ },
+ {
+  "slug": "denver-pedestrian-accident-lawyer",
+  "keyword": "denver pedestrian accident lawyer",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 5,
+  "difficulty": 6,
+  "value": 9,
+  "opportunity": 7.5,
+  "angle": "Vision Zero context; crosswalk right-of-way; hit-rate on Colfax/Federal corridors"
+ },
+ {
+  "slug": "denver-bicycle-accident-lawyer",
+  "keyword": "denver bicycle accident attorney",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 5,
+  "difficulty": 6,
+  "value": 9,
+  "opportunity": 7.5,
+  "angle": "bike-lane network growth; dooring; 3-foot passing law CRS 42-4-1003"
+ },
+ {
+  "slug": "denver-wrongful-death-attorney",
+  "keyword": "denver wrongful death attorney",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 5,
+  "difficulty": 7,
+  "value": 10,
+  "opportunity": 7.1,
+  "angle": "who may file under CO wrongful death act incl. 2025 sibling expansion; $2.125M cap context"
+ },
+ {
+  "slug": "denver-slip-and-fall-lawyer",
+  "keyword": "denver slip and fall lawyer",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 5,
+  "difficulty": 6,
+  "value": 8,
+  "opportunity": 6.7,
+  "angle": "CO Premises Liability Act framework; invitee/licensee/trespasser; winter ice cases"
+ },
+ {
+  "slug": "denver-dog-bite-lawyer",
+  "keyword": "denver dog bite lawyer",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 5,
+  "value": 8,
+  "opportunity": 6.4,
+  "angle": "CO strict liability dog bite statute for serious bodily injury; economic vs noneconomic recovery"
+ },
+ {
+  "slug": "denver-uber-lyft-accident-lawyer",
+  "keyword": "uber accident lawyer denver",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 7.2,
+  "angle": "rideshare insurance periods (app off/on/en route); $1M policy layers"
+ },
+ {
+  "slug": "denver-drunk-driving-victim-lawyer",
+  "keyword": "denver drunk driving accident victim lawyer",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 7.2,
+  "angle": "DUI victim claims; punitive damages availability; dram shop limits in CO"
+ }
+]

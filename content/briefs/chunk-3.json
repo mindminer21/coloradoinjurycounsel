@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "colorado-catastrophic-injury-lawyer",
+  "keyword": "catastrophic injury lawyer colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 6,
+  "value": 10,
+  "opportunity": 5,
+  "angle": "uncapped economic damages; structured settlements; team approach"
+ },
+ {
+  "slug": "colorado-burn-injury-lawyer",
+  "keyword": "burn injury lawyer colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 4.5,
+  "angle": "product + premises origins; scarring as noneconomic driver; life-care costs"
+ },
+ {
+  "slug": "colorado-nursing-home-abuse-lawyer",
+  "keyword": "colorado nursing home abuse lawyer",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 5.4,
+  "angle": "neglect signs; arbitration clause pushback; survival vs wrongful death claims"
+ },
+ {
+  "slug": "colorado-product-liability-lawyer",
+  "keyword": "colorado product liability lawyer",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 3.6,
+  "angle": "strict liability elements; auto-defect crossover; preservation of the product"
+ },
+ {
+  "slug": "colorado-e-scooter-accident-lawyer",
+  "keyword": "e-scooter accident lawyer colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 7,
+  "opportunity": 4.7,
+  "angle": "scooter-share T&Cs; helmet factors; sidewalk rules by city"
+ },
+ {
+  "slug": "colorado-hit-and-run-victim-lawyer",
+  "keyword": "hit and run victim compensation colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 6,
+  "angle": "UM claims; crime victim compensation program interplay"
+ },
+ {
+  "slug": "colorado-distracted-driving-lawyer",
+  "keyword": "distracted driving accident lawyer colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 4,
+  "angle": "2025 hands-free law leverage; phone records discovery"
+ },
+ {
+  "slug": "colorado-icy-road-accident-lawyer",
+  "keyword": "icy road accident lawyer colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "weather ≠ automatic defense; speed-for-conditions statute; chain/traction laws"
+ },
+ {
+  "slug": "colorado-t-bone-accident-lawyer",
+  "keyword": "t-bone accident lawyer colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "intersection fault proof; signal-timing evidence; side-impact injury severity"
+ },
+ {
+  "slug": "colorado-rollover-accident-lawyer",
+  "keyword": "rollover accident attorney colorado",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "SUV stability; roof-crush defect angle; mountain shoulder drop-offs"
+ }
+]

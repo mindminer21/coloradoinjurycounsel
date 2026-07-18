@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "fort-collins-personal-injury-lawyer",
+  "keyword": "fort collins personal injury lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 5.4,
+  "angle": "NoCo growth; bike-heavy city crash mix"
+ },
+ {
+  "slug": "boulder-personal-injury-lawyer",
+  "keyword": "boulder personal injury lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 6,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "cyclist capital; open-space trail incidents; Boulder county juries"
+ },
+ {
+  "slug": "boulder-bicycle-accident-lawyer",
+  "keyword": "boulder bicycle accident lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 6.8,
+  "angle": "US-36 bikeway; peloton crashes; door-zone cases"
+ },
+ {
+  "slug": "lakewood-car-accident-lawyer",
+  "keyword": "lakewood car accident lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 6,
+  "angle": "6th Ave/Colfax corridors; Jeffco courts"
+ },
+ {
+  "slug": "pueblo-car-accident-lawyer",
+  "keyword": "pueblo car accident lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 6,
+  "angle": "I-25 south; steel-city workforce injuries"
+ },
+ {
+  "slug": "pueblo-personal-injury-lawyer",
+  "keyword": "pueblo personal injury lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 4,
+  "angle": "Pueblo county jury landscape; access to Front Range specialists"
+ },
+ {
+  "slug": "grand-junction-car-accident-lawyer",
+  "keyword": "grand junction car accident lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 6,
+  "angle": "I-70 western slope; Mesa county; rural EMS transport times"
+ },
+ {
+  "slug": "grand-junction-personal-injury-lawyer",
+  "keyword": "grand junction personal injury lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 4,
+  "angle": "western slope venue; energy + ag work injury crossover"
+ },
+ {
+  "slug": "greeley-car-accident-lawyer",
+  "keyword": "greeley car accident lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 6,
+  "angle": "US-85 truck traffic; Weld county oil corridor"
+ },
+ {
+  "slug": "longmont-car-accident-lawyer",
+  "keyword": "longmont car accident lawyer",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "Diagonal Highway; Boulder county filings"
+ }
+]

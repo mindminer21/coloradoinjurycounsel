@@ -1,0 +1,120 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: "Fraunces Variable";
+  --font-sans: "Archivo Variable";
+  --navy: #003756;
+  --navy-deep: #02243a;
+  --navy-ink: #021b2c;
+  --paper: #f7f5f1;
+  --gold: #c6a15b;
+  --gold-soft: #d9bc85;
+  --sky: #8fb8d4;
+}
+
+html { scroll-behavior: smooth; }
+body { @apply bg-paper text-navy-ink font-sans antialiased; }
+
+/* ————— Typography rhythm ————— */
+.prose-wm p { @apply text-[1.0625rem] leading-[1.75] text-navy-ink/85 mb-5 max-w-measure; }
+.prose-wm h2 { @apply font-display text-2xl md:text-[1.75rem] leading-snug text-navy mt-12 mb-4; }
+.prose-wm h3 { @apply font-display text-xl text-navy mt-8 mb-3; }
+.prose-wm ul { @apply list-none pl-0 mb-5 max-w-measure; }
+.prose-wm li { @apply relative pl-6 mb-2 text-[1.0625rem] leading-relaxed text-navy-ink/85; }
+.prose-wm li::before { content: ""; @apply absolute left-0 top-[0.65em] h-[6px] w-[6px] rotate-45 bg-gold; }
+.prose-wm a { @apply text-navy underline decoration-gold/60 underline-offset-4 hover:decoration-gold transition-colors; }
+.prose-wm strong { @apply text-navy font-semibold; }
+
+/* ————— Reveal-on-scroll (CSS-first; JS only toggles class) ————— */
+.reveal { opacity: 0; transform: translateY(22px); transition: opacity 0.7s cubic-bezier(0.22, 1, 0.36, 1), transform 0.7s cubic-bezier(0.22, 1, 0.36, 1); }
+.reveal.is-in { opacity: 1; transform: none; }
+.reveal-d1 { transition-delay: 90ms; } .reveal-d2 { transition-delay: 180ms; } .reveal-d3 { transition-delay: 270ms; }
+
+/* ————— Hero ridgelines: slow drift parallax ————— */
+@keyframes ridge-drift { from { transform: translateX(0); } to { transform: translateX(-4%); } }
+@keyframes ridge-drift-far { from { transform: translateX(0); } to { transform: translateX(-2%); } }
+.ridge-near { animation: ridge-drift 36s linear infinite alternate; }
+.ridge-far { animation: ridge-drift-far 52s linear infinite alternate; }
+
+/* Sky gradient shimmer behind hero */
+@keyframes sky-breathe { 0%,100% { opacity: 0.55; } 50% { opacity: 0.85; } }
+.sky-glow { animation: sky-breathe 9s ease-in-out infinite; }
+
+/* Gold hairline grow-in under H1 */
+@keyframes hairline { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+.hairline { transform-origin: left; animation: hairline 1s 0.5s cubic-bezier(0.22,1,0.36,1) both; }
+
+/* CTA sheen */
+.cta-gold { position: relative; overflow: hidden; }
+.cta-gold::after { content: ""; position: absolute; inset: 0; transform: translateX(-120%) skewX(-18deg); background: linear-gradient(90deg, transparent, rgba(255,255,255,0.35), transparent); transition: transform 0.7s ease; }
+.cta-gold:hover::after { transform: translateX(120%) skewX(-18deg); }
+
+/* FAQ marker */
+details.faq summary::-webkit-details-marker { display: none; }
+details.faq summary::after { content: "+"; @apply text-gold font-display text-2xl leading-none transition-transform duration-300; }
+details.faq[open] summary::after { transform: rotate(45deg); }
+details.faq > div { display: grid; grid-template-rows: 0fr; transition: grid-template-rows 0.35s ease; }
+details.faq[open] > div { grid-template-rows: 1fr; }
+details.faq > div > * { overflow: hidden; }
+
+/* Estimator progress */
+.step-bar { transition: width 0.5s cubic-bezier(0.22,1,0.36,1); }
+
+/* Focus visibility */
+:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; border-radius: 2px; }
+
+/* ————— Film grain (animated-website technique; pure CSS, no requests) ————— */
+.grain { position: relative; }
+.grain::before {
+  content: ""; position: absolute; inset: -100%; z-index: 1; pointer-events: none; opacity: 0.05;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  animation: grain-shift 9s steps(8) infinite;
+}
+@keyframes grain-shift {
+  0%,100% { transform: translate(0,0); } 12.5% { transform: translate(-3%,2%); } 25% { transform: translate(2%,-3%); }
+  37.5% { transform: translate(-2%,-2%); } 50% { transform: translate(3%,3%); } 62.5% { transform: translate(-3%,0); }
+  75% { transform: translate(0,-3%); } 87.5% { transform: translate(2%,2%); }
+}
+
+/* ————— Ambient particles (gold dust, GPU-only transforms) ————— */
+.particle { position: absolute; border-radius: 9999px; background: radial-gradient(circle, rgba(217,188,133,0.9), rgba(217,188,133,0)); will-change: transform, opacity; animation: float-up var(--dur,16s) linear infinite; animation-delay: var(--delay,0s); opacity: 0; }
+@keyframes float-up {
+  0% { transform: translateY(0) translateX(0) scale(1); opacity: 0; }
+  8% { opacity: var(--op,0.5); }
+  85% { opacity: var(--op,0.5); }
+  100% { transform: translateY(-72vh) translateX(var(--drift,20px)) scale(0.6); opacity: 0; }
+}
+
+/* ————— Word-rise headline (server-rendered spans, CSS-staggered) ————— */
+.word-rise .w { display: inline-block; overflow: hidden; vertical-align: bottom; }
+.word-rise .w > span { display: inline-block; transform: translateY(110%); animation: word-up 0.85s cubic-bezier(0.22,1,0.36,1) forwards; animation-delay: calc(var(--i) * 70ms + 120ms); }
+@keyframes word-up { to { transform: translateY(0); } }
+
+/* ————— Glass morphism ————— */
+.glass-dark { background: rgba(2,36,58,0.55); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); border: 1px solid rgba(255,255,255,0.10); box-shadow: 0 18px 50px rgba(2,27,44,0.45), inset 0 1px 0 rgba(255,255,255,0.08); }
+.glass-gold-edge { position: relative; }
+.glass-gold-edge::after { content: ""; position: absolute; inset: 0 auto auto 0; height: 2px; width: 100%; background: linear-gradient(90deg, transparent, rgba(198,161,91,0.8), transparent); }
+
+/* ————— Process connector line ————— */
+.process-line { transform: scaleX(0); transform-origin: left; transition: transform 1.4s cubic-bezier(0.22,1,0.36,1) 0.2s; }
+.reveal.is-in .process-line { transform: scaleX(1); }
+
+/* ————— Card hover physics ————— */
+.lift-card { transition: transform 0.45s cubic-bezier(0.22,1,0.36,1), box-shadow 0.45s ease, border-color 0.3s ease; }
+.lift-card:hover { transform: translateY(-6px) scale(1.005); }
+
+/* ————— Reduced motion: kill all decorative motion ————— */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .reveal { opacity: 1; transform: none; transition: none; }
+  .ridge-near, .ridge-far, .sky-glow, .hairline { animation: none; }
+  .cta-gold::after { display: none; }
+  details.faq > div { transition: none; }
+  .grain::before { animation: none; }
+  .particle { display: none; }
+  .word-rise .w > span { transform: none; animation: none; }
+  .process-line { transform: scaleX(1); transition: none; }
+  .lift-card, .lift-card:hover { transform: none; transition: none; }
+}

@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "denver-hit-and-run-lawyer",
+  "keyword": "denver hit and run accident lawyer",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 5,
+  "value": 8,
+  "opportunity": 6.4,
+  "angle": "UM coverage as lifeline; Medina alerts; police report timelines"
+ },
+ {
+  "slug": "denver-catastrophic-injury-lawyer",
+  "keyword": "denver catastrophic injury lawyer",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 6,
+  "value": 10,
+  "opportunity": 5,
+  "angle": "life-care planning; economic damages uncapped; coordination with specialists"
+ },
+ {
+  "slug": "denver-brain-injury-lawyer",
+  "keyword": "denver brain injury lawyer",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 6,
+  "value": 10,
+  "opportunity": 6.7,
+  "angle": "TBI proof problems; imaging vs symptoms; neuropsych evaluations"
+ },
+ {
+  "slug": "denver-spinal-cord-injury-lawyer",
+  "keyword": "denver spinal cord injury attorney",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 6,
+  "value": 10,
+  "opportunity": 5,
+  "angle": "lifetime cost modeling; Craig Hospital proximity; uncapped economic losses"
+ },
+ {
+  "slug": "denver-construction-accident-lawyer",
+  "keyword": "denver construction accident lawyer",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 5.4,
+  "angle": "third-party claims beyond workers comp; site safety rules; scaffolding/equipment defendants"
+ },
+ {
+  "slug": "denver-premises-liability-lawyer",
+  "keyword": "denver premises liability attorney",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 8,
+  "opportunity": 4.8,
+  "angle": "CPLA deep-dive; negligent security; landlord duties"
+ },
+ {
+  "slug": "denver-bus-accident-lawyer",
+  "keyword": "denver bus accident lawyer",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 6,
+  "angle": "RTD claims + CGIA notice deadlines (182 days); private carriers"
+ },
+ {
+  "slug": "denver-rear-end-accident-lawyer",
+  "keyword": "rear end collision lawyer denver",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 6,
+  "angle": "presumption dynamics; whiplash proof; low-property-damage myth"
+ },
+ {
+  "slug": "denver-uninsured-motorist-lawyer",
+  "keyword": "uninsured motorist claim lawyer denver",
+  "cluster": "geo-casetype",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 6.8,
+  "angle": "UM/UIM stacking rules; bad-faith setup; CO mandatory offer of UM"
+ },
+ {
+  "slug": "colorado-car-accident-lawyer",
+  "keyword": "colorado car accident lawyer",
+  "cluster": "state-casetype",
+  "intent": "hire",
+  "demand": 9,
+  "difficulty": 8,
+  "value": 10,
+  "opportunity": 11.3,
+  "angle": "statewide venue differences; 3-yr motor vehicle SOL vs 2-yr general; comparative negligence 50% bar"
+ }
+]

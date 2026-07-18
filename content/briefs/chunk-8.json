@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "broken-bone-settlement-colorado",
+  "keyword": "broken bone accident settlement colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "fracture classes; hardware; healing complications"
+ },
+ {
+  "slug": "tbi-settlement-value-colorado",
+  "keyword": "tbi settlement value colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 10,
+  "opportunity": 5,
+  "angle": "mild vs severe TBI valuation; lifetime cognitive care"
+ },
+ {
+  "slug": "wrongful-death-settlement-colorado",
+  "keyword": "average wrongful death settlement colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 10,
+  "opportunity": 5,
+  "angle": "2025 cap $2.125M context; who recovers; solatium option"
+ },
+ {
+  "slug": "slip-and-fall-settlement-colorado",
+  "keyword": "slip and fall settlement amounts colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "premises act limits; comparative fault haircuts"
+ },
+ {
+  "slug": "dog-bite-settlement-colorado",
+  "keyword": "dog bite settlement colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "strict-liability economic recovery; scarring value"
+ },
+ {
+  "slug": "car-accident-claim-timeline-colorado",
+  "keyword": "how long does a car accident settlement take in colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 3,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 8,
+  "angle": "phases with realistic clocks; when patience adds value"
+ },
+ {
+  "slug": "should-i-accept-first-settlement-offer-colorado",
+  "keyword": "should i accept the first settlement offer colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "insurer playbook; release finality; counter strategy"
+ },
+ {
+  "slug": "colorado-personal-injury-laws-2025",
+  "keyword": "new colorado personal injury laws 2025",
+  "cluster": "law",
+  "intent": "research",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 6,
+  "angle": "HB24-1472 explained from primary sources; what it means for claim value"
+ },
+ {
+  "slug": "colorado-noneconomic-damages-cap",
+  "keyword": "colorado noneconomic damages cap 1.5 million",
+  "cluster": "law",
+  "intent": "research",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "cap mechanics; filed-date trigger; inflation adjustments from 2028"
+ },
+ {
+  "slug": "colorado-statute-of-limitations-car-accident",
+  "keyword": "colorado car accident statute of limitations",
+  "cluster": "law",
+  "intent": "research",
+  "demand": 4,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 8,
+  "angle": "3-yr motor vehicle vs 2-yr general; discovery rule; minors tolling; CGIA 182-day trap"
+ }
+]

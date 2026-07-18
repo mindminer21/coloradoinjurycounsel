@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "colorado-snowmobile-accident-lawyer",
+  "keyword": "snowmobile accident lawyer colorado",
+  "cluster": "mountain",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 2,
+  "value": 8,
+  "opportunity": 4,
+  "angle": "backcountry outfitter waivers; trail right-of-way"
+ },
+ {
+  "slug": "aspen-injury-lawyer",
+  "keyword": "aspen personal injury lawyer",
+  "cluster": "mountain",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 3,
+  "angle": "Pitkin county; resort + short-term-rental premises claims"
+ },
+ {
+  "slug": "car-accident-settlement-calculator-colorado",
+  "keyword": "car accident settlement calculator colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 5,
+  "difficulty": 4,
+  "value": 10,
+  "opportunity": 12.5,
+  "angle": "how ranges actually form; why calculators mislead; interactive estimator as honest alternative"
+ },
+ {
+  "slug": "what-is-my-case-worth-colorado",
+  "keyword": "what is my personal injury case worth colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 4,
+  "difficulty": 4,
+  "value": 10,
+  "opportunity": 10,
+  "angle": "drivers of value; economic vs noneconomic; role of the 2025 caps"
+ },
+ {
+  "slug": "average-car-accident-settlement-colorado",
+  "keyword": "average car accident settlement colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 5,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 9,
+  "angle": "why averages deceive; ranges by severity band; timing of offers"
+ },
+ {
+  "slug": "colorado-pain-and-suffering-calculator",
+  "keyword": "pain and suffering calculator colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 6.8,
+  "angle": "multiplier vs per-diem methods; $1.5M cap context; proof that moves the number"
+ },
+ {
+  "slug": "average-truck-accident-settlement-colorado",
+  "keyword": "average semi truck accident settlement colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 10,
+  "opportunity": 6.7,
+  "angle": "policy-limit realities; layered coverage; catastrophic bands"
+ },
+ {
+  "slug": "average-motorcycle-accident-settlement-colorado",
+  "keyword": "average motorcycle accident settlement colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "bias discount problem; gear/injury documentation"
+ },
+ {
+  "slug": "whiplash-settlement-amount-colorado",
+  "keyword": "whiplash settlement amounts colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 6,
+  "angle": "soft-tissue ranges; treatment-gap traps; MMI timing"
+ },
+ {
+  "slug": "herniated-disc-settlement-colorado",
+  "keyword": "herniated disc settlement colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "imaging + injections + surgery tiers; preexisting-condition defense"
+ }
+]
