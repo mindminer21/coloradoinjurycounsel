@@ -210,3 +210,11 @@ Format for each: one story, one idea, one CTA (Snapshot at the website or the ph
 - Purchasing/altering ad campaigns
 
 **Questions → Jeff.** Target: live before Masten and Paul's Colorado implementation session.
+
+---
+## ADDENDUM — Claim Game Plan lead magnet (added later)
+New trigger tag: **"PI Game Plan Lead"** — applied when someone completes the interactive Claim Game Plan at /game-plan.
+- Start the 5-email PI nurture sequence on this tag (same sequence as the estimator leads, or a dedicated variant referencing "your Game Plan").
+- The full generated Game Plan + all intake answers + primary address are saved on the contact ("AI Call Intake Details" custom field + note).
+- The site also attempts to send the Game Plan email instantly via the Conversations API; if that fails, email #1 of the workflow should attach/restate the plan (content is in the contact's custom field).
+- "Urgent Review" tag is added when time-sensitive issues were spotted (deadline risk, government entity, no treatment yet).

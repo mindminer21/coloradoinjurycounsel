@@ -20,12 +20,10 @@ export default function OfferStack() {
               </div>
               <div className="mt-7 flex flex-wrap gap-4">
                 <a
-                  href={SITE.calBookingUrl}
-                  target="_blank"
-                  rel="noopener"
+                  href="/game-plan"
                   className="cta-gold inline-flex items-center gap-2 rounded-sm bg-gold px-6 py-3.5 text-[0.95rem] font-semibold text-navy-ink shadow-[0_10px_35px_rgba(198,161,91,0.4)] transition-transform hover:-translate-y-0.5"
                 >
-                  {o.cta}
+                  Build my free Claim Game Plan →
                 </a>
                 <a href={SITE.phoneHref} className="glass-dark inline-flex items-center rounded-sm px-6 py-3.5 text-[0.95rem] font-semibold text-white transition-colors hover:text-gold-soft">
                   Or call {SITE.phone} — answered 24/7
