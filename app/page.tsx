@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import AnimatedHero from "@/components/AnimatedHero";
 import TrustBar from "@/components/TrustBar";
+import TrialResults from "@/components/TrialResults";
 import ProcessSteps from "@/components/ProcessSteps";
 import LawContext from "@/components/LawContext";
 import AttorneyCards from "@/components/AttorneyCards";
@@ -39,6 +40,7 @@ export default function HomePage() {
         sub="Whiteford Mountain West pairs Denver-based counsel with the trial depth of a national firm — for people across Colorado facing serious injuries and the insurers who undervalue them."
       />
       <TrustBar />
+      <TrialResults />
 
       <section className="mx-auto max-w-6xl px-4 py-14 md:px-6 md:py-20">
         <Reveal>
