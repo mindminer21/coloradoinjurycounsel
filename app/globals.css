@@ -14,7 +14,7 @@
   --sky: #8fb8d4;
 }
 
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; overflow-x: clip; }
 body { @apply bg-paper text-navy-ink font-sans antialiased; }
 
 /* ————— Typography rhythm ————— */

@@ -22,8 +22,9 @@ export default function AboutPage() {
           </h1>
           <p className="mt-5 max-w-2xl text-white/75">
             Whiteford Mountain West is the Colorado front door to Whiteford — a full-service law firm with a
-            national litigation platform. Injured Coloradans get a Denver-based attorney who answers the phone,
-            backed by trial lawyers who have handled some of the most complex injury litigation in the country.
+            national litigation platform. Injured Coloradans get a Denver team you can meet in person,
+            face-to-face, backed by top-tier national trial lawyers who have handled some of the most complex
+            injury litigation in the country.
           </p>
         </div>
       </section>
