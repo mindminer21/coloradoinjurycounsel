@@ -24,7 +24,7 @@ const BASE: Omit<Attorney, "photo">[] = [
     location: "Denver, Colorado",
     admissions: ["Colorado", "Michigan", "U.S. District Court, District of Colorado"],
     bio: [
-      "Jeff Schell is a Denver-based partner at Whiteford and the Managing Partner of Whiteford Mountain West. A Colorado attorney, he was named one of ColoradoBiz Magazine's 25 Most Influential Young Professionals in Colorado.",
+      "Jeff Schell is a Denver-based partner at Whiteford and the Managing Partner of Whiteford Mountain West. A Colorado attorney and a member of the Colorado Trial Lawyers Association, he was named one of ColoradoBiz Magazine's 25 Most Influential Young Professionals in Colorado.",
       "For injury matters, Jeff serves as the firm's Colorado front door: he meets with injured Coloradans, coordinates the right Whiteford trial resources for each case, and stays personally accessible throughout the engagement.",
     ],
     initials: "JS",
