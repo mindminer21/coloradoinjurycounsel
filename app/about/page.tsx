@@ -7,7 +7,7 @@ import { SITE } from "@/lib/site";
 export const metadata: Metadata = {
   title: "Our Attorneys | Whiteford Mountain West — Denver Personal Injury",
   description:
-    "Meet the Whiteford Mountain West team: Denver-based Managing Director Jeffrey Schell with trial partners Masten Childers III and Paul Nussbaum of Whiteford's national litigation platform.",
+    "Meet the Whiteford Mountain West team: Denver-based Managing Partner Jeffrey Schell with trial partners Masten Childers III and Paul Nussbaum of Whiteford's national litigation platform.",
   alternates: { canonical: "/about" },
 };
 

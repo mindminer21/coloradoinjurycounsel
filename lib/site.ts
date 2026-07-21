@@ -6,7 +6,7 @@ export const SITE = {
   address: { street: "2128 W. 32nd Ave., Suite 200", city: "Denver", state: "CO", zip: "80211" },
   baseUrl: process.env.NEXT_PUBLIC_BASE_URL || "https://coloradoinjurycounsel.com",
   attorneys: [
-    { name: "Jeffrey Schell", title: "Managing Director, Whiteford Mountain West", initials: "JS" },
+    { name: "Jeffrey Schell", title: "Managing Partner, Whiteford Mountain West", initials: "JS" },
     { name: "Masten Childers", title: "Attorney", initials: "MC" },
     { name: "Paul Nussbaum", title: "Attorney", initials: "PN" },
   ],
