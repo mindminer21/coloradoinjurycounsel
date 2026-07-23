@@ -23,11 +23,11 @@ export default function SiteFooter() {
           <div>
             <p className="mb-3 font-semibold text-white/90">Injury cases</p>
             {[
-              ["/denver-car-accident-lawyer", "Car accidents"],
-              ["/colorado-truck-accident-lawyer", "Truck accidents"],
-              ["/denver-motorcycle-accident-lawyer", "Motorcycle accidents"],
-              ["/colorado-wrongful-death-lawyer", "Wrongful death"],
-              ["/colorado-ski-accident-lawyer", "Ski accidents"],
+              ["/denver/car-accident-lawyer", "Car accidents"],
+              ["/truck-accidents", "Truck accidents"],
+              ["/denver/motorcycle-accident-lawyer", "Motorcycle accidents"],
+              ["/wrongful-death", "Wrongful death"],
+              ["/ski-accidents", "Ski accidents"],
               ["/practice-areas", "All practice areas →"],
             ].map(([href, label]) => (
               <Link key={href} href={href} className="block py-1 text-white/60 hover:text-gold-soft">
@@ -40,8 +40,8 @@ export default function SiteFooter() {
             {[
               ["/case-estimator", "Case Value Snapshot"],
               ["/after-a-car-accident-in-colorado", "After a crash: first 14 days"],
-              ["/colorado-personal-injury-laws-2025", "2025 law changes"],
-              ["/colorado-statute-of-limitations-car-accident", "Filing deadlines"],
+              ["/personal-injury-laws-2025", "2025 law changes"],
+              ["/statute-of-limitations-car-accidents", "Filing deadlines"],
               ["/about", "Our attorneys"],
               ["/privacy", "Privacy policy"],
               ["/disclaimer", "Legal disclaimer"],

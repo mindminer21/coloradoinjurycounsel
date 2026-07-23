@@ -1,0 +1,1794 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-22",
+  "site": "Colorado Injury Counsel",
+  "reviewStatus": "DRAFT — attorney review pending",
+  "pillarTypes": {
+    "problem": "/{problem}/",
+    "audience": "/for/{audience}/",
+    "location": "/{city}/{problem-lawyer}/"
+  },
+  "magnets": [
+    {
+      "path": "/case-estimator",
+      "label": "Colorado Case Value Snapshot"
+    },
+    {
+      "path": "/game-plan",
+      "label": "Claim Game Plan"
+    }
+  ],
+  "topicHubs": {
+    "personal-injury": "/personal-injury/",
+    "car-accidents": "/car-accidents/",
+    "truck-accidents": "/truck-accidents/",
+    "motorcycle-accidents": "/motorcycle-accidents/",
+    "bicycle-accidents": "/bicycle-accidents/",
+    "pedestrian-accidents": "/pedestrian-accidents/",
+    "rideshare-accidents": "/rideshare-accidents/",
+    "dog-bites": "/dog-bites/",
+    "slip-and-fall": "/slip-and-fall/",
+    "ski-accidents": "/ski-accidents/",
+    "wrongful-death": "/wrongful-death/",
+    "catastrophic-injuries": "/catastrophic-injuries/",
+    "workplace-injuries": "/workplace-third-party-claims/",
+    "child-injuries": "/daycare-injuries/"
+  },
+  "pages": [
+    {
+      "sourceSlug": "audience-families-after-fatal-accident",
+      "legacyPath": null,
+      "path": "/for/families-after-a-fatal-accident/",
+      "type": "audience",
+      "title": "Guidance for Families After a Fatal Accident",
+      "topics": [
+        "wrongful-death"
+      ],
+      "city": null,
+      "origin": "draft-new",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/wrongful-death/"
+      ]
+    },
+    {
+      "sourceSlug": "audience-injured-workers",
+      "legacyPath": null,
+      "path": "/for/injured-workers/",
+      "type": "audience",
+      "title": "Colorado Injury Guidance for Workers",
+      "topics": [
+        "workplace-injuries",
+        "personal-injury"
+      ],
+      "city": null,
+      "origin": "draft-new",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/workplace-third-party-claims/",
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "audience-parents-of-injured-children",
+      "legacyPath": null,
+      "path": "/for/parents-of-injured-children/",
+      "type": "audience",
+      "title": "Colorado Injury Guidance for Parents",
+      "topics": [
+        "child-injuries",
+        "personal-injury"
+      ],
+      "city": null,
+      "origin": "draft-new",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/daycare-injuries/",
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "arvada-car-accident-lawyer",
+      "legacyPath": "/arvada-car-accident-lawyer",
+      "path": "/arvada/car-accident-lawyer/",
+      "type": "location",
+      "title": "Arvada Car Accident Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "arvada",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "aspen-injury-lawyer",
+      "legacyPath": "/aspen-injury-lawyer",
+      "path": "/aspen/injury-lawyer/",
+      "type": "location",
+      "title": "Aspen Personal Injury Lawyer",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": "aspen",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "aurora-car-accident-lawyer",
+      "legacyPath": "/aurora-car-accident-lawyer",
+      "path": "/aurora/car-accident-lawyer/",
+      "type": "location",
+      "title": "Aurora Car Accident Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "aurora",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "aurora-personal-injury-lawyer",
+      "legacyPath": "/aurora-personal-injury-lawyer",
+      "path": "/aurora/personal-injury-lawyer/",
+      "type": "location",
+      "title": "Aurora Personal Injury Lawyer",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": "aurora",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "boulder-bicycle-accident-lawyer",
+      "legacyPath": "/boulder-bicycle-accident-lawyer",
+      "path": "/boulder/bicycle-accident-lawyer/",
+      "type": "location",
+      "title": "Boulder Bicycle Accident Lawyer",
+      "topics": [
+        "bicycle-accidents"
+      ],
+      "city": "boulder",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/bicycle-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "boulder-personal-injury-lawyer",
+      "legacyPath": "/boulder-personal-injury-lawyer",
+      "path": "/boulder/personal-injury-lawyer/",
+      "type": "location",
+      "title": "Boulder Personal Injury Lawyer",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": "boulder",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "breckenridge-ski-accident-lawyer",
+      "legacyPath": "/breckenridge-ski-accident-lawyer",
+      "path": "/breckenridge/ski-accident-lawyer/",
+      "type": "location",
+      "title": "Breckenridge Ski Accident Lawyer",
+      "topics": [
+        "ski-accidents"
+      ],
+      "city": "breckenridge",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/ski-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "castle-rock-car-accident-lawyer",
+      "legacyPath": "/castle-rock-car-accident-lawyer",
+      "path": "/castle-rock/car-accident-lawyer/",
+      "type": "location",
+      "title": "Castle Rock Car Accident Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "castle-rock",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-springs-car-accident-lawyer",
+      "legacyPath": "/colorado-springs-car-accident-lawyer",
+      "path": "/colorado-springs/car-accident-lawyer/",
+      "type": "location",
+      "title": "Colorado Springs Car Accident Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "colorado-springs",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-springs-motorcycle-accident-lawyer",
+      "legacyPath": "/colorado-springs-motorcycle-accident-lawyer",
+      "path": "/colorado-springs/motorcycle-accident-lawyer/",
+      "type": "location",
+      "title": "Colorado Springs Motorcycle Accident Lawyer",
+      "topics": [
+        "motorcycle-accidents"
+      ],
+      "city": "colorado-springs",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/motorcycle-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-springs-personal-injury-lawyer",
+      "legacyPath": "/colorado-springs-personal-injury-lawyer",
+      "path": "/colorado-springs/personal-injury-lawyer/",
+      "type": "location",
+      "title": "Colorado Springs Personal Injury Lawyer",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": "colorado-springs",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-bicycle-accident-lawyer",
+      "legacyPath": "/denver-bicycle-accident-lawyer",
+      "path": "/denver/bicycle-accident-lawyer/",
+      "type": "location",
+      "title": "Denver Bicycle Accident Attorney",
+      "topics": [
+        "bicycle-accidents"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/bicycle-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-brain-injury-lawyer",
+      "legacyPath": "/denver-brain-injury-lawyer",
+      "path": "/denver/brain-injury-lawyer/",
+      "type": "location",
+      "title": "Denver Brain Injury Lawyer",
+      "topics": [
+        "catastrophic-injuries"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/catastrophic-injuries/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-bus-accident-lawyer",
+      "legacyPath": "/denver-bus-accident-lawyer",
+      "path": "/denver/bus-accident-lawyer/",
+      "type": "location",
+      "title": "Denver Bus Accident Lawyer",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-car-accident-lawyer",
+      "legacyPath": "/denver-car-accident-lawyer",
+      "path": "/denver/car-accident-lawyer/",
+      "type": "location",
+      "title": "Denver Car Accident Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-catastrophic-injury-lawyer",
+      "legacyPath": "/denver-catastrophic-injury-lawyer",
+      "path": "/denver/catastrophic-injury-lawyer/",
+      "type": "location",
+      "title": "Denver Catastrophic Injury Lawyer",
+      "topics": [
+        "catastrophic-injuries"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/catastrophic-injuries/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-construction-accident-lawyer",
+      "legacyPath": "/denver-construction-accident-lawyer",
+      "path": "/denver/construction-accident-lawyer/",
+      "type": "location",
+      "title": "Denver Construction Accident Lawyer",
+      "topics": [
+        "workplace-injuries"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/workplace-third-party-claims/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-dog-bite-lawyer",
+      "legacyPath": "/denver-dog-bite-lawyer",
+      "path": "/denver/dog-bite-lawyer/",
+      "type": "location",
+      "title": "Denver Dog Bite Lawyer",
+      "topics": [
+        "dog-bites"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/dog-bites/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-drunk-driving-victim-lawyer",
+      "legacyPath": "/denver-drunk-driving-victim-lawyer",
+      "path": "/denver/drunk-driving-victim-lawyer/",
+      "type": "location",
+      "title": "Denver Drunk Driving Accident Victim Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-hit-and-run-lawyer",
+      "legacyPath": "/denver-hit-and-run-lawyer",
+      "path": "/denver/hit-and-run-lawyer/",
+      "type": "location",
+      "title": "Denver Hit and Run Accident Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-motorcycle-accident-lawyer",
+      "legacyPath": "/denver-motorcycle-accident-lawyer",
+      "path": "/denver/motorcycle-accident-lawyer/",
+      "type": "location",
+      "title": "Denver Motorcycle Accident Lawyer",
+      "topics": [
+        "motorcycle-accidents"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/motorcycle-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-pedestrian-accident-lawyer",
+      "legacyPath": "/denver-pedestrian-accident-lawyer",
+      "path": "/denver/pedestrian-accident-lawyer/",
+      "type": "location",
+      "title": "Denver Pedestrian Accident Lawyer",
+      "topics": [
+        "pedestrian-accidents"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/pedestrian-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-personal-injury-lawyer",
+      "legacyPath": "/denver-personal-injury-lawyer",
+      "path": "/denver/personal-injury-lawyer/",
+      "type": "location",
+      "title": "Denver Personal Injury Lawyer",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-premises-liability-lawyer",
+      "legacyPath": "/denver-premises-liability-lawyer",
+      "path": "/denver/premises-liability-lawyer/",
+      "type": "location",
+      "title": "Denver Premises Liability Attorney",
+      "topics": [
+        "slip-and-fall"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/slip-and-fall/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-rear-end-accident-lawyer",
+      "legacyPath": "/denver-rear-end-accident-lawyer",
+      "path": "/denver/rear-end-accident-lawyer/",
+      "type": "location",
+      "title": "Rear End Collision Lawyer in Denver",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-slip-and-fall-lawyer",
+      "legacyPath": "/denver-slip-and-fall-lawyer",
+      "path": "/denver/slip-and-fall-lawyer/",
+      "type": "location",
+      "title": "Denver Slip and Fall Lawyer",
+      "topics": [
+        "slip-and-fall"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/slip-and-fall/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-spinal-cord-injury-lawyer",
+      "legacyPath": "/denver-spinal-cord-injury-lawyer",
+      "path": "/denver/spinal-cord-injury-lawyer/",
+      "type": "location",
+      "title": "Denver Spinal Cord Injury Attorney",
+      "topics": [
+        "catastrophic-injuries"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/catastrophic-injuries/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-taxi-delivery-accident-lawyer",
+      "legacyPath": "/denver-taxi-delivery-accident-lawyer",
+      "path": "/denver/taxi-delivery-accident-lawyer/",
+      "type": "location",
+      "title": "Denver Delivery and Taxi Accident Lawyer",
+      "topics": [
+        "rideshare-accidents"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/rideshare-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-truck-accident-lawyer",
+      "legacyPath": "/denver-truck-accident-lawyer",
+      "path": "/denver/truck-accident-lawyer/",
+      "type": "location",
+      "title": "Denver Truck Accident Lawyer",
+      "topics": [
+        "truck-accidents"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/truck-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-uber-lyft-accident-lawyer",
+      "legacyPath": "/denver-uber-lyft-accident-lawyer",
+      "path": "/denver/uber-lyft-accident-lawyer/",
+      "type": "location",
+      "title": "Denver Uber and Lyft Accident Lawyer",
+      "topics": [
+        "rideshare-accidents"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/rideshare-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-uninsured-motorist-lawyer",
+      "legacyPath": "/denver-uninsured-motorist-lawyer",
+      "path": "/denver/uninsured-motorist-lawyer/",
+      "type": "location",
+      "title": "Uninsured Motorist Claim Lawyer in Denver",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-wrongful-death-attorney",
+      "legacyPath": "/denver-wrongful-death-attorney",
+      "path": "/denver/wrongful-death-lawyer/",
+      "type": "location",
+      "title": "Denver Wrongful Death Attorney",
+      "topics": [
+        "wrongful-death"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/wrongful-death/"
+      ]
+    },
+    {
+      "sourceSlug": "fort-collins-car-accident-lawyer",
+      "legacyPath": "/fort-collins-car-accident-lawyer",
+      "path": "/fort-collins/car-accident-lawyer/",
+      "type": "location",
+      "title": "Fort Collins Car Accident Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "fort-collins",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "fort-collins-personal-injury-lawyer",
+      "legacyPath": "/fort-collins-personal-injury-lawyer",
+      "path": "/fort-collins/personal-injury-lawyer/",
+      "type": "location",
+      "title": "Fort Collins Personal Injury Lawyer",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": "fort-collins",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "grand-junction-car-accident-lawyer",
+      "legacyPath": "/grand-junction-car-accident-lawyer",
+      "path": "/grand-junction/car-accident-lawyer/",
+      "type": "location",
+      "title": "Grand Junction Car Accident Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "grand-junction",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "grand-junction-personal-injury-lawyer",
+      "legacyPath": "/grand-junction-personal-injury-lawyer",
+      "path": "/grand-junction/personal-injury-lawyer/",
+      "type": "location",
+      "title": "Grand Junction Personal Injury Lawyer",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": "grand-junction",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "greeley-car-accident-lawyer",
+      "legacyPath": "/greeley-car-accident-lawyer",
+      "path": "/greeley/car-accident-lawyer/",
+      "type": "location",
+      "title": "Greeley Car Accident Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "greeley",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "i-70-mountain-corridor-accident-lawyer",
+      "legacyPath": "/i-70-mountain-corridor-accident-lawyer",
+      "path": "/i-70-mountain-corridor/accident-lawyer/",
+      "type": "location",
+      "title": "I-70 Mountain Corridor Accident Lawyer",
+      "topics": [
+        "ski-accidents"
+      ],
+      "city": "i-70-mountain-corridor",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/ski-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "lakewood-car-accident-lawyer",
+      "legacyPath": "/lakewood-car-accident-lawyer",
+      "path": "/lakewood/car-accident-lawyer/",
+      "type": "location",
+      "title": "Lakewood Car Accident Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "lakewood",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "longmont-car-accident-lawyer",
+      "legacyPath": "/longmont-car-accident-lawyer",
+      "path": "/longmont/car-accident-lawyer/",
+      "type": "location",
+      "title": "Longmont Car Accident Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "longmont",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "pueblo-car-accident-lawyer",
+      "legacyPath": "/pueblo-car-accident-lawyer",
+      "path": "/pueblo/car-accident-lawyer/",
+      "type": "location",
+      "title": "Pueblo Car Accident Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "pueblo",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "pueblo-personal-injury-lawyer",
+      "legacyPath": "/pueblo-personal-injury-lawyer",
+      "path": "/pueblo/personal-injury-lawyer/",
+      "type": "location",
+      "title": "Pueblo Personal Injury Lawyer",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": "pueblo",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "thornton-car-accident-lawyer",
+      "legacyPath": "/thornton-car-accident-lawyer",
+      "path": "/thornton/car-accident-lawyer/",
+      "type": "location",
+      "title": "Thornton Car Accident Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "thornton",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "vail-ski-accident-lawyer",
+      "legacyPath": "/vail-ski-accident-lawyer",
+      "path": "/vail/ski-accident-lawyer/",
+      "type": "location",
+      "title": "Vail Ski Accident Lawyer",
+      "topics": [
+        "ski-accidents"
+      ],
+      "city": "vail",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/ski-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "westminster-car-accident-lawyer",
+      "legacyPath": "/westminster-car-accident-lawyer",
+      "path": "/westminster/car-accident-lawyer/",
+      "type": "location",
+      "title": "Westminster Car Accident Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": "westminster",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-amputation-injury-lawyer",
+      "legacyPath": "/colorado-amputation-injury-lawyer",
+      "path": "/amputation-injuries/",
+      "type": "problem",
+      "title": "Colorado Amputation Injury Lawyer",
+      "topics": [
+        "catastrophic-injuries"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/catastrophic-injuries/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-atv-accident-lawyer",
+      "legacyPath": "/colorado-atv-accident-lawyer",
+      "path": "/atv-accidents/",
+      "type": "problem",
+      "title": "Colorado ATV Accident Lawyer",
+      "topics": [
+        "ski-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/ski-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "average-car-accident-settlement-colorado",
+      "legacyPath": "/average-car-accident-settlement-colorado",
+      "path": "/average-car-accident-settlement/",
+      "type": "problem",
+      "title": "The Average Car Accident Settlement in Colorado — and Why It Would Mislead You",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "average-motorcycle-accident-settlement-colorado",
+      "legacyPath": "/average-motorcycle-accident-settlement-colorado",
+      "path": "/average-motorcycle-accident-settlement/",
+      "type": "problem",
+      "title": "Average Motorcycle Accident Settlement in Colorado: What Riders Should Actually Know",
+      "topics": [
+        "motorcycle-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/motorcycle-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "average-truck-accident-settlement-colorado",
+      "legacyPath": "/average-truck-accident-settlement-colorado",
+      "path": "/average-truck-accident-settlement/",
+      "type": "problem",
+      "title": "Average Semi Truck Accident Settlement in Colorado: The Honest Picture",
+      "topics": [
+        "truck-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/truck-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-bicycle-accident-lawyer",
+      "legacyPath": "/colorado-bicycle-accident-lawyer",
+      "path": "/bicycle-accidents/",
+      "type": "problem",
+      "title": "Colorado Bicycle Accident Lawyer",
+      "topics": [
+        "bicycle-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/bicycle-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "broken-bone-settlement-colorado",
+      "legacyPath": "/broken-bone-settlement-colorado",
+      "path": "/broken-bone-settlement/",
+      "type": "problem",
+      "title": "Broken Bone Accident Settlements in Colorado",
+      "topics": [
+        "catastrophic-injuries"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/catastrophic-injuries/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-burn-injury-lawyer",
+      "legacyPath": "/colorado-burn-injury-lawyer",
+      "path": "/burn-injuries/",
+      "type": "problem",
+      "title": "Burn Injury Lawyer for Colorado",
+      "topics": [
+        "catastrophic-injuries"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/catastrophic-injuries/"
+      ]
+    },
+    {
+      "sourceSlug": "car-accident-claim-timeline-colorado",
+      "legacyPath": "/car-accident-claim-timeline-colorado",
+      "path": "/car-accident-claim-timeline/",
+      "type": "problem",
+      "title": "How Long Does a Car Accident Settlement Take in Colorado?",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "car-accident-settlement-calculator-colorado",
+      "legacyPath": "/car-accident-settlement-calculator-colorado",
+      "path": "/car-accident-settlement-calculator/",
+      "type": "problem",
+      "title": "Car Accident Settlement Calculator for Colorado: What Works and What's a Gimmick",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-car-accident-lawyer",
+      "legacyPath": "/colorado-car-accident-lawyer",
+      "path": "/car-accidents/",
+      "type": "problem",
+      "title": "Colorado Car Accident Lawyer",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-car-insurance-minimums",
+      "legacyPath": "/colorado-car-insurance-minimums",
+      "path": "/car-insurance-minimums/",
+      "type": "problem",
+      "title": "Colorado's Car Insurance Minimums and What They Mean for Your Injury Claim",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "what-is-my-case-worth-colorado",
+      "legacyPath": "/what-is-my-case-worth-colorado",
+      "path": "/case-value/",
+      "type": "problem",
+      "title": "What Is My Personal Injury Case Worth in Colorado?",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-catastrophic-injury-lawyer",
+      "legacyPath": "/colorado-catastrophic-injury-lawyer",
+      "path": "/catastrophic-injuries/",
+      "type": "problem",
+      "title": "Catastrophic Injury Lawyer for Colorado",
+      "topics": [
+        "catastrophic-injuries"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/catastrophic-injuries/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-comparative-negligence",
+      "legacyPath": "/colorado-comparative-negligence",
+      "path": "/comparative-negligence/",
+      "type": "problem",
+      "title": "Colorado's Comparative Negligence Rule, Explained",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-daycare-injury-lawyer",
+      "legacyPath": "/colorado-daycare-injury-lawyer",
+      "path": "/daycare-injuries/",
+      "type": "problem",
+      "title": "Colorado Daycare Injury Lawyer",
+      "topics": [
+        "child-injuries"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/daycare-injuries/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-distracted-driving-lawyer",
+      "legacyPath": "/colorado-distracted-driving-lawyer",
+      "path": "/distracted-driving/",
+      "type": "problem",
+      "title": "Distracted Driving Accident Lawyer in Colorado",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "dog-bite-settlement-colorado",
+      "legacyPath": "/dog-bite-settlement-colorado",
+      "path": "/dog-bite-settlement/",
+      "type": "problem",
+      "title": "Dog Bite Settlements in Colorado",
+      "topics": [
+        "dog-bites"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/dog-bites/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-dog-bite-lawyer",
+      "legacyPath": "/colorado-dog-bite-lawyer",
+      "path": "/dog-bites/",
+      "type": "problem",
+      "title": "Colorado Dog Bite Law Attorney",
+      "topics": [
+        "dog-bites"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/dog-bites/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-dram-shop-law",
+      "legacyPath": "/colorado-dram-shop-law",
+      "path": "/dram-shop-law/",
+      "type": "problem",
+      "title": "Colorado's Dram Shop Law: When a Bar Shares the Blame",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-e-scooter-accident-lawyer",
+      "legacyPath": "/colorado-e-scooter-accident-lawyer",
+      "path": "/e-scooter-accidents/",
+      "type": "problem",
+      "title": "E-Scooter Accident Lawyer for Colorado",
+      "topics": [
+        "bicycle-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/bicycle-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-governmental-immunity-injury-claims",
+      "legacyPath": "/colorado-governmental-immunity-injury-claims",
+      "path": "/governmental-immunity-injury-claims/",
+      "type": "problem",
+      "title": "Injured by a Government Entity in Colorado? The CGIA Changes Everything",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "herniated-disc-settlement-colorado",
+      "legacyPath": "/herniated-disc-settlement-colorado",
+      "path": "/herniated-disc-settlement/",
+      "type": "problem",
+      "title": "Herniated Disc Settlements in Colorado: How These Cases Are Really Valued",
+      "topics": [
+        "catastrophic-injuries"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/catastrophic-injuries/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-hit-and-run-victim-lawyer",
+      "legacyPath": "/colorado-hit-and-run-victim-lawyer",
+      "path": "/hit-and-run-victim/",
+      "type": "problem",
+      "title": "Hit and Run Victim Compensation in Colorado",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-icy-road-accident-lawyer",
+      "legacyPath": "/colorado-icy-road-accident-lawyer",
+      "path": "/icy-road-accidents/",
+      "type": "problem",
+      "title": "Icy Road Accident Lawyer in Colorado",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-motorcycle-accident-lawyer",
+      "legacyPath": "/colorado-motorcycle-accident-lawyer",
+      "path": "/motorcycle-accidents/",
+      "type": "problem",
+      "title": "Colorado Motorcycle Accident Lawyer",
+      "topics": [
+        "motorcycle-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/motorcycle-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-noneconomic-damages-cap",
+      "legacyPath": "/colorado-noneconomic-damages-cap",
+      "path": "/noneconomic-damages-cap/",
+      "type": "problem",
+      "title": "Colorado's Noneconomic Damages Cap, Explained",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-nursing-home-abuse-lawyer",
+      "legacyPath": "/colorado-nursing-home-abuse-lawyer",
+      "path": "/nursing-home-abuse/",
+      "type": "problem",
+      "title": "Colorado Nursing Home Abuse Lawyer",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-oilfield-accident-lawyer",
+      "legacyPath": "/colorado-oilfield-accident-lawyer",
+      "path": "/oilfield-accidents/",
+      "type": "problem",
+      "title": "Colorado Oilfield Accident Lawyer",
+      "topics": [
+        "workplace-injuries"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/workplace-third-party-claims/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-pain-and-suffering-calculator",
+      "legacyPath": "/colorado-pain-and-suffering-calculator",
+      "path": "/pain-and-suffering-calculator/",
+      "type": "problem",
+      "title": "Pain and Suffering in Colorado: What Calculators Get Wrong",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-pedestrian-accident-lawyer",
+      "legacyPath": "/colorado-pedestrian-accident-lawyer",
+      "path": "/pedestrian-accidents/",
+      "type": "problem",
+      "title": "Colorado Pedestrian Accident Attorney",
+      "topics": [
+        "pedestrian-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/pedestrian-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-personal-injury-laws-2025",
+      "legacyPath": "/colorado-personal-injury-laws-2025",
+      "path": "/personal-injury-laws-2025/",
+      "type": "problem",
+      "title": "New Colorado Personal Injury Laws in 2025: What Changed",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-personal-injury-lawyer",
+      "legacyPath": "/colorado-personal-injury-lawyer",
+      "path": "/personal-injury/",
+      "type": "problem",
+      "title": "Colorado Personal Injury Attorney",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-product-liability-lawyer",
+      "legacyPath": "/colorado-product-liability-lawyer",
+      "path": "/product-liability/",
+      "type": "problem",
+      "title": "Colorado Product Liability Lawyer",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-rideshare-accident-lawyer",
+      "legacyPath": "/colorado-rideshare-accident-lawyer",
+      "path": "/rideshare-accidents/",
+      "type": "problem",
+      "title": "Rideshare Accident Lawyer in Colorado",
+      "topics": [
+        "rideshare-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/rideshare-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-rollover-accident-lawyer",
+      "legacyPath": "/colorado-rollover-accident-lawyer",
+      "path": "/rollover-accidents/",
+      "type": "problem",
+      "title": "Rollover Accident Attorney for Colorado",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-semi-truck-accident-lawyer",
+      "legacyPath": "/colorado-semi-truck-accident-lawyer",
+      "path": "/semi-truck-accidents/",
+      "type": "problem",
+      "title": "Semi Truck Accident Lawyer in Colorado",
+      "topics": [
+        "truck-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/truck-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "should-i-accept-first-settlement-offer-colorado",
+      "legacyPath": "/should-i-accept-first-settlement-offer-colorado",
+      "path": "/should-i-accept-first-settlement-offer/",
+      "type": "problem",
+      "title": "Should I Accept the First Settlement Offer in Colorado?",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-ski-accident-lawyer",
+      "legacyPath": "/colorado-ski-accident-lawyer",
+      "path": "/ski-accidents/",
+      "type": "problem",
+      "title": "Colorado Ski Accident Lawyer",
+      "topics": [
+        "ski-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/ski-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-ski-lift-accident-lawyer",
+      "legacyPath": "/colorado-ski-lift-accident-lawyer",
+      "path": "/ski-lift-accidents/",
+      "type": "problem",
+      "title": "Ski Lift Accident Lawyer in Colorado",
+      "topics": [
+        "ski-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/ski-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "slip-and-fall-settlement-colorado",
+      "legacyPath": "/slip-and-fall-settlement-colorado",
+      "path": "/slip-and-fall-settlement/",
+      "type": "problem",
+      "title": "Slip and Fall Settlement Amounts in Colorado",
+      "topics": [
+        "slip-and-fall"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/slip-and-fall/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-slip-and-fall-lawyer",
+      "legacyPath": "/colorado-slip-and-fall-lawyer",
+      "path": "/slip-and-fall/",
+      "type": "problem",
+      "title": "Colorado Slip and Fall Attorney",
+      "topics": [
+        "slip-and-fall"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/slip-and-fall/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-snowboard-accident-lawyer",
+      "legacyPath": "/colorado-snowboard-accident-lawyer",
+      "path": "/snowboard-accidents/",
+      "type": "problem",
+      "title": "Snowboard Accident Lawyer in Colorado",
+      "topics": [
+        "ski-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/ski-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-snowmobile-accident-lawyer",
+      "legacyPath": "/colorado-snowmobile-accident-lawyer",
+      "path": "/snowmobile-accidents/",
+      "type": "problem",
+      "title": "Colorado Snowmobile Accident Lawyer",
+      "topics": [
+        "ski-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/ski-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-statute-of-limitations-car-accident",
+      "legacyPath": "/colorado-statute-of-limitations-car-accident",
+      "path": "/statute-of-limitations-car-accidents/",
+      "type": "problem",
+      "title": "Colorado's Car Accident Statute of Limitations, Explained",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-t-bone-accident-lawyer",
+      "legacyPath": "/colorado-t-bone-accident-lawyer",
+      "path": "/t-bone-accidents/",
+      "type": "problem",
+      "title": "T-Bone Accident Lawyer in Colorado",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "tbi-settlement-value-colorado",
+      "legacyPath": "/tbi-settlement-value-colorado",
+      "path": "/tbi-settlement-value/",
+      "type": "problem",
+      "title": "TBI Settlement Value in Colorado",
+      "topics": [
+        "catastrophic-injuries"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/catastrophic-injuries/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-train-accident-lawyer",
+      "legacyPath": "/colorado-train-accident-lawyer",
+      "path": "/train-accidents/",
+      "type": "problem",
+      "title": "Colorado Train Accident Lawyer",
+      "topics": [
+        "personal-injury"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/personal-injury/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-truck-accident-lawyer",
+      "legacyPath": "/colorado-truck-accident-lawyer",
+      "path": "/truck-accidents/",
+      "type": "problem",
+      "title": "Colorado Truck Accident Lawyer",
+      "topics": [
+        "truck-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/truck-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-whiplash-injury-lawyer",
+      "legacyPath": "/colorado-whiplash-injury-lawyer",
+      "path": "/whiplash-injuries/",
+      "type": "problem",
+      "title": "Colorado Whiplash Injury Claims",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "whiplash-settlement-amount-colorado",
+      "legacyPath": "/whiplash-settlement-amount-colorado",
+      "path": "/whiplash-settlement-amount/",
+      "type": "problem",
+      "title": "Whiplash Settlement Amounts in Colorado: An Honest Guide",
+      "topics": [
+        "car-accidents"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/car-accidents/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-work-injury-third-party-lawyer",
+      "legacyPath": "/colorado-work-injury-third-party-lawyer",
+      "path": "/workplace-third-party-claims/",
+      "type": "problem",
+      "title": "Colorado Third-Party Work Injury Lawyer",
+      "topics": [
+        "workplace-injuries"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/workplace-third-party-claims/"
+      ]
+    },
+    {
+      "sourceSlug": "wrongful-death-settlement-colorado",
+      "legacyPath": "/wrongful-death-settlement-colorado",
+      "path": "/wrongful-death-settlement/",
+      "type": "problem",
+      "title": "Wrongful Death Settlements in Colorado: An Honest Guide",
+      "topics": [
+        "wrongful-death"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/wrongful-death/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-wrongful-death-statute",
+      "legacyPath": "/colorado-wrongful-death-statute",
+      "path": "/wrongful-death-statute/",
+      "type": "problem",
+      "title": "Colorado's Wrongful Death Statute: Who Can Sue, and When",
+      "topics": [
+        "wrongful-death"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/wrongful-death/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-wrongful-death-lawyer",
+      "legacyPath": "/colorado-wrongful-death-lawyer",
+      "path": "/wrongful-death/",
+      "type": "problem",
+      "title": "Colorado Wrongful Death Lawyer",
+      "topics": [
+        "wrongful-death"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/wrongful-death/"
+      ]
+    }
+  ]
+}

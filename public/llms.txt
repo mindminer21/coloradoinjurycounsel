@@ -1,0 +1,122 @@
+# Colorado Injury Counsel
+
+> Colorado personal-injury acquisition site. All customer-facing pillar copy is DRAFT pending attorney review. The site is intentionally noindexed and password-gated.
+
+## Architecture
+
+- Problem pillars use /{problem}/ and explain a legal need or claim type.
+- Audience pillars use /for/{audience}/ and orient a defined group to relevant problem and location resources.
+- Location pillars use /{city}/{problem-lawyer}/ and connect local context to the corresponding problem hub.
+- Legal figures appear only in the rendered LawContext component, not content JSON.
+
+## Problem pillars
+
+- https://coloradoinjurycounsel.com/amputation-injuries/
+- https://coloradoinjurycounsel.com/atv-accidents/
+- https://coloradoinjurycounsel.com/average-car-accident-settlement/
+- https://coloradoinjurycounsel.com/average-motorcycle-accident-settlement/
+- https://coloradoinjurycounsel.com/average-truck-accident-settlement/
+- https://coloradoinjurycounsel.com/bicycle-accidents/
+- https://coloradoinjurycounsel.com/broken-bone-settlement/
+- https://coloradoinjurycounsel.com/burn-injuries/
+- https://coloradoinjurycounsel.com/car-accident-claim-timeline/
+- https://coloradoinjurycounsel.com/car-accident-settlement-calculator/
+- https://coloradoinjurycounsel.com/car-accidents/
+- https://coloradoinjurycounsel.com/car-insurance-minimums/
+- https://coloradoinjurycounsel.com/case-value/
+- https://coloradoinjurycounsel.com/catastrophic-injuries/
+- https://coloradoinjurycounsel.com/comparative-negligence/
+- https://coloradoinjurycounsel.com/daycare-injuries/
+- https://coloradoinjurycounsel.com/distracted-driving/
+- https://coloradoinjurycounsel.com/dog-bite-settlement/
+- https://coloradoinjurycounsel.com/dog-bites/
+- https://coloradoinjurycounsel.com/dram-shop-law/
+- https://coloradoinjurycounsel.com/e-scooter-accidents/
+- https://coloradoinjurycounsel.com/governmental-immunity-injury-claims/
+- https://coloradoinjurycounsel.com/herniated-disc-settlement/
+- https://coloradoinjurycounsel.com/hit-and-run-victim/
+- https://coloradoinjurycounsel.com/icy-road-accidents/
+- https://coloradoinjurycounsel.com/motorcycle-accidents/
+- https://coloradoinjurycounsel.com/noneconomic-damages-cap/
+- https://coloradoinjurycounsel.com/nursing-home-abuse/
+- https://coloradoinjurycounsel.com/oilfield-accidents/
+- https://coloradoinjurycounsel.com/pain-and-suffering-calculator/
+- https://coloradoinjurycounsel.com/pedestrian-accidents/
+- https://coloradoinjurycounsel.com/personal-injury-laws-2025/
+- https://coloradoinjurycounsel.com/personal-injury/
+- https://coloradoinjurycounsel.com/product-liability/
+- https://coloradoinjurycounsel.com/rideshare-accidents/
+- https://coloradoinjurycounsel.com/rollover-accidents/
+- https://coloradoinjurycounsel.com/semi-truck-accidents/
+- https://coloradoinjurycounsel.com/should-i-accept-first-settlement-offer/
+- https://coloradoinjurycounsel.com/ski-accidents/
+- https://coloradoinjurycounsel.com/ski-lift-accidents/
+- https://coloradoinjurycounsel.com/slip-and-fall-settlement/
+- https://coloradoinjurycounsel.com/slip-and-fall/
+- https://coloradoinjurycounsel.com/snowboard-accidents/
+- https://coloradoinjurycounsel.com/snowmobile-accidents/
+- https://coloradoinjurycounsel.com/statute-of-limitations-car-accidents/
+- https://coloradoinjurycounsel.com/t-bone-accidents/
+- https://coloradoinjurycounsel.com/tbi-settlement-value/
+- https://coloradoinjurycounsel.com/train-accidents/
+- https://coloradoinjurycounsel.com/truck-accidents/
+- https://coloradoinjurycounsel.com/whiplash-injuries/
+- https://coloradoinjurycounsel.com/whiplash-settlement-amount/
+- https://coloradoinjurycounsel.com/workplace-third-party-claims/
+- https://coloradoinjurycounsel.com/wrongful-death-settlement/
+- https://coloradoinjurycounsel.com/wrongful-death-statute/
+- https://coloradoinjurycounsel.com/wrongful-death/
+
+## Audience pillars
+
+- https://coloradoinjurycounsel.com/for/families-after-a-fatal-accident/
+- https://coloradoinjurycounsel.com/for/injured-workers/
+- https://coloradoinjurycounsel.com/for/parents-of-injured-children/
+
+## Location pillars
+
+- https://coloradoinjurycounsel.com/arvada/car-accident-lawyer/
+- https://coloradoinjurycounsel.com/aspen/injury-lawyer/
+- https://coloradoinjurycounsel.com/aurora/car-accident-lawyer/
+- https://coloradoinjurycounsel.com/aurora/personal-injury-lawyer/
+- https://coloradoinjurycounsel.com/boulder/bicycle-accident-lawyer/
+- https://coloradoinjurycounsel.com/boulder/personal-injury-lawyer/
+- https://coloradoinjurycounsel.com/breckenridge/ski-accident-lawyer/
+- https://coloradoinjurycounsel.com/castle-rock/car-accident-lawyer/
+- https://coloradoinjurycounsel.com/colorado-springs/car-accident-lawyer/
+- https://coloradoinjurycounsel.com/colorado-springs/motorcycle-accident-lawyer/
+- https://coloradoinjurycounsel.com/colorado-springs/personal-injury-lawyer/
+- https://coloradoinjurycounsel.com/denver/bicycle-accident-lawyer/
+- https://coloradoinjurycounsel.com/denver/brain-injury-lawyer/
+- https://coloradoinjurycounsel.com/denver/bus-accident-lawyer/
+- https://coloradoinjurycounsel.com/denver/car-accident-lawyer/
+- https://coloradoinjurycounsel.com/denver/catastrophic-injury-lawyer/
+- https://coloradoinjurycounsel.com/denver/construction-accident-lawyer/
+- https://coloradoinjurycounsel.com/denver/dog-bite-lawyer/
+- https://coloradoinjurycounsel.com/denver/drunk-driving-victim-lawyer/
+- https://coloradoinjurycounsel.com/denver/hit-and-run-lawyer/
+- https://coloradoinjurycounsel.com/denver/motorcycle-accident-lawyer/
+- https://coloradoinjurycounsel.com/denver/pedestrian-accident-lawyer/
+- https://coloradoinjurycounsel.com/denver/personal-injury-lawyer/
+- https://coloradoinjurycounsel.com/denver/premises-liability-lawyer/
+- https://coloradoinjurycounsel.com/denver/rear-end-accident-lawyer/
+- https://coloradoinjurycounsel.com/denver/slip-and-fall-lawyer/
+- https://coloradoinjurycounsel.com/denver/spinal-cord-injury-lawyer/
+- https://coloradoinjurycounsel.com/denver/taxi-delivery-accident-lawyer/
+- https://coloradoinjurycounsel.com/denver/truck-accident-lawyer/
+- https://coloradoinjurycounsel.com/denver/uber-lyft-accident-lawyer/
+- https://coloradoinjurycounsel.com/denver/uninsured-motorist-lawyer/
+- https://coloradoinjurycounsel.com/denver/wrongful-death-lawyer/
+- https://coloradoinjurycounsel.com/fort-collins/car-accident-lawyer/
+- https://coloradoinjurycounsel.com/fort-collins/personal-injury-lawyer/
+- https://coloradoinjurycounsel.com/grand-junction/car-accident-lawyer/
+- https://coloradoinjurycounsel.com/grand-junction/personal-injury-lawyer/
+- https://coloradoinjurycounsel.com/greeley/car-accident-lawyer/
+- https://coloradoinjurycounsel.com/i-70-mountain-corridor/accident-lawyer/
+- https://coloradoinjurycounsel.com/lakewood/car-accident-lawyer/
+- https://coloradoinjurycounsel.com/longmont/car-accident-lawyer/
+- https://coloradoinjurycounsel.com/pueblo/car-accident-lawyer/
+- https://coloradoinjurycounsel.com/pueblo/personal-injury-lawyer/
+- https://coloradoinjurycounsel.com/thornton/car-accident-lawyer/
+- https://coloradoinjurycounsel.com/vail/ski-accident-lawyer/
+- https://coloradoinjurycounsel.com/westminster/car-accident-lawyer/

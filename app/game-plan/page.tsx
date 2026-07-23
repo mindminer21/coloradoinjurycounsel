@@ -3,6 +3,7 @@ import GamePlanWizard from "@/components/GamePlanWizard";
 import LawContext from "@/components/LawContext";
 import CtaBand from "@/components/CtaBand";
 import { SITE } from "@/lib/site";
+import MagnetPillarLinks from "@/components/MagnetPillarLinks";
 
 export const metadata: Metadata = {
   title: "Free Claim Game Plan — AI-Guided Injury Claim Review | Whiteford",
@@ -37,6 +38,7 @@ export default function GamePlanPage() {
           </div>
         </div>
       </section>
+      <MagnetPillarLinks paths={["/personal-injury/", "/for/injured-workers/", "/denver/personal-injury-lawyer/"]} />
       <LawContext />
       <CtaBand />
     </>

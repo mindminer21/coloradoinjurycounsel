@@ -20,15 +20,15 @@ export const metadata: Metadata = {
 };
 
 const CASE_TYPES = [
-  { href: "/denver-car-accident-lawyer", label: "Car accidents", d: "Colorado's most common serious-injury claims" },
-  { href: "/colorado-truck-accident-lawyer", label: "Truck accidents", d: "Commercial carriers, catastrophic outcomes" },
-  { href: "/denver-motorcycle-accident-lawyer", label: "Motorcycle crashes", d: "Fighting the bias against riders" },
-  { href: "/denver-pedestrian-accident-lawyer", label: "Pedestrians & cyclists", d: "Struck by drivers who didn't look" },
-  { href: "/colorado-wrongful-death-lawyer", label: "Wrongful death", d: "For families facing the unimaginable" },
-  { href: "/colorado-ski-accident-lawyer", label: "Ski & mountain injuries", d: "Collisions, lifts, and resort claims" },
-  { href: "/denver-slip-and-fall-lawyer", label: "Unsafe property", d: "Falls, security failures, winter ice" },
-  { href: "/denver-dog-bite-lawyer", label: "Dog bites", d: "Colorado's strict-liability protections" },
-  { href: "/denver-catastrophic-injury-lawyer", label: "Catastrophic injury", d: "Brain, spine, burns — lifetime stakes" },
+  { href: "/car-accidents", label: "Car accidents", d: "Colorado's most common serious-injury claims" },
+  { href: "/truck-accidents", label: "Truck accidents", d: "Commercial carriers, catastrophic outcomes" },
+  { href: "/motorcycle-accidents", label: "Motorcycle crashes", d: "Fighting the bias against riders" },
+  { href: "/pedestrian-accidents", label: "Pedestrians & cyclists", d: "Struck by drivers who didn't look" },
+  { href: "/wrongful-death", label: "Wrongful death", d: "For families facing the unimaginable" },
+  { href: "/ski-accidents", label: "Ski & mountain injuries", d: "Collisions, lifts, and resort claims" },
+  { href: "/slip-and-fall", label: "Unsafe property", d: "Falls, security failures, winter ice" },
+  { href: "/dog-bites", label: "Dog bites", d: "Colorado's strict-liability protections" },
+  { href: "/catastrophic-injuries", label: "Catastrophic injury", d: "Brain, spine, burns — lifetime stakes" },
 ];
 
 export default function HomePage() {

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import EstimatorWidget from "@/components/EstimatorWidget";
 import AttorneyCards from "@/components/AttorneyCards";
 import Reveal from "@/components/Reveal";
+import MagnetPillarLinks from "@/components/MagnetPillarLinks";
 
 export const metadata: Metadata = {
   title: "Free Colorado Case Value Snapshot | Whiteford Mountain West",
@@ -35,6 +36,7 @@ export default function EstimatorPage() {
           </p>
         </Reveal>
       </div>
+      <MagnetPillarLinks paths={["/car-accidents/", "/for/parents-of-injured-children/", "/denver/car-accident-lawyer/"]} />
       <AttorneyCards />
     </>
   );

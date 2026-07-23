@@ -1,0 +1,502 @@
+[
+  {
+    "source": "/arvada-car-accident-lawyer",
+    "destination": "/arvada/car-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/aspen-injury-lawyer",
+    "destination": "/aspen/injury-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/aurora-car-accident-lawyer",
+    "destination": "/aurora/car-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/aurora-personal-injury-lawyer",
+    "destination": "/aurora/personal-injury-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/average-car-accident-settlement-colorado",
+    "destination": "/average-car-accident-settlement/",
+    "statusCode": 301
+  },
+  {
+    "source": "/average-motorcycle-accident-settlement-colorado",
+    "destination": "/average-motorcycle-accident-settlement/",
+    "statusCode": 301
+  },
+  {
+    "source": "/average-truck-accident-settlement-colorado",
+    "destination": "/average-truck-accident-settlement/",
+    "statusCode": 301
+  },
+  {
+    "source": "/boulder-bicycle-accident-lawyer",
+    "destination": "/boulder/bicycle-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/boulder-personal-injury-lawyer",
+    "destination": "/boulder/personal-injury-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/breckenridge-ski-accident-lawyer",
+    "destination": "/breckenridge/ski-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/broken-bone-settlement-colorado",
+    "destination": "/broken-bone-settlement/",
+    "statusCode": 301
+  },
+  {
+    "source": "/car-accident-claim-timeline-colorado",
+    "destination": "/car-accident-claim-timeline/",
+    "statusCode": 301
+  },
+  {
+    "source": "/car-accident-settlement-calculator-colorado",
+    "destination": "/car-accident-settlement-calculator/",
+    "statusCode": 301
+  },
+  {
+    "source": "/castle-rock-car-accident-lawyer",
+    "destination": "/castle-rock/car-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-amputation-injury-lawyer",
+    "destination": "/amputation-injuries/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-atv-accident-lawyer",
+    "destination": "/atv-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-bicycle-accident-lawyer",
+    "destination": "/bicycle-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-burn-injury-lawyer",
+    "destination": "/burn-injuries/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-car-accident-lawyer",
+    "destination": "/car-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-car-insurance-minimums",
+    "destination": "/car-insurance-minimums/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-catastrophic-injury-lawyer",
+    "destination": "/catastrophic-injuries/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-comparative-negligence",
+    "destination": "/comparative-negligence/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-daycare-injury-lawyer",
+    "destination": "/daycare-injuries/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-distracted-driving-lawyer",
+    "destination": "/distracted-driving/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-dog-bite-lawyer",
+    "destination": "/dog-bites/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-dram-shop-law",
+    "destination": "/dram-shop-law/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-e-scooter-accident-lawyer",
+    "destination": "/e-scooter-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-governmental-immunity-injury-claims",
+    "destination": "/governmental-immunity-injury-claims/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-hit-and-run-victim-lawyer",
+    "destination": "/hit-and-run-victim/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-icy-road-accident-lawyer",
+    "destination": "/icy-road-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-motorcycle-accident-lawyer",
+    "destination": "/motorcycle-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-noneconomic-damages-cap",
+    "destination": "/noneconomic-damages-cap/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-nursing-home-abuse-lawyer",
+    "destination": "/nursing-home-abuse/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-oilfield-accident-lawyer",
+    "destination": "/oilfield-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-pain-and-suffering-calculator",
+    "destination": "/pain-and-suffering-calculator/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-pedestrian-accident-lawyer",
+    "destination": "/pedestrian-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-personal-injury-laws-2025",
+    "destination": "/personal-injury-laws-2025/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-personal-injury-lawyer",
+    "destination": "/personal-injury/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-product-liability-lawyer",
+    "destination": "/product-liability/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-rideshare-accident-lawyer",
+    "destination": "/rideshare-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-rollover-accident-lawyer",
+    "destination": "/rollover-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-semi-truck-accident-lawyer",
+    "destination": "/semi-truck-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-ski-accident-lawyer",
+    "destination": "/ski-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-ski-lift-accident-lawyer",
+    "destination": "/ski-lift-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-slip-and-fall-lawyer",
+    "destination": "/slip-and-fall/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-snowboard-accident-lawyer",
+    "destination": "/snowboard-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-snowmobile-accident-lawyer",
+    "destination": "/snowmobile-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-springs-car-accident-lawyer",
+    "destination": "/colorado-springs/car-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-springs-motorcycle-accident-lawyer",
+    "destination": "/colorado-springs/motorcycle-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-springs-personal-injury-lawyer",
+    "destination": "/colorado-springs/personal-injury-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-statute-of-limitations-car-accident",
+    "destination": "/statute-of-limitations-car-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-t-bone-accident-lawyer",
+    "destination": "/t-bone-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-train-accident-lawyer",
+    "destination": "/train-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-truck-accident-lawyer",
+    "destination": "/truck-accidents/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-whiplash-injury-lawyer",
+    "destination": "/whiplash-injuries/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-work-injury-third-party-lawyer",
+    "destination": "/workplace-third-party-claims/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-wrongful-death-lawyer",
+    "destination": "/wrongful-death/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-wrongful-death-statute",
+    "destination": "/wrongful-death-statute/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-bicycle-accident-lawyer",
+    "destination": "/denver/bicycle-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-brain-injury-lawyer",
+    "destination": "/denver/brain-injury-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-bus-accident-lawyer",
+    "destination": "/denver/bus-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-car-accident-lawyer",
+    "destination": "/denver/car-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-catastrophic-injury-lawyer",
+    "destination": "/denver/catastrophic-injury-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-construction-accident-lawyer",
+    "destination": "/denver/construction-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-dog-bite-lawyer",
+    "destination": "/denver/dog-bite-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-drunk-driving-victim-lawyer",
+    "destination": "/denver/drunk-driving-victim-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-hit-and-run-lawyer",
+    "destination": "/denver/hit-and-run-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-motorcycle-accident-lawyer",
+    "destination": "/denver/motorcycle-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-pedestrian-accident-lawyer",
+    "destination": "/denver/pedestrian-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-personal-injury-lawyer",
+    "destination": "/denver/personal-injury-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-premises-liability-lawyer",
+    "destination": "/denver/premises-liability-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-rear-end-accident-lawyer",
+    "destination": "/denver/rear-end-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-slip-and-fall-lawyer",
+    "destination": "/denver/slip-and-fall-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-spinal-cord-injury-lawyer",
+    "destination": "/denver/spinal-cord-injury-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-taxi-delivery-accident-lawyer",
+    "destination": "/denver/taxi-delivery-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-truck-accident-lawyer",
+    "destination": "/denver/truck-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-uber-lyft-accident-lawyer",
+    "destination": "/denver/uber-lyft-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-uninsured-motorist-lawyer",
+    "destination": "/denver/uninsured-motorist-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-wrongful-death-attorney",
+    "destination": "/denver/wrongful-death-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/dog-bite-settlement-colorado",
+    "destination": "/dog-bite-settlement/",
+    "statusCode": 301
+  },
+  {
+    "source": "/fort-collins-car-accident-lawyer",
+    "destination": "/fort-collins/car-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/fort-collins-personal-injury-lawyer",
+    "destination": "/fort-collins/personal-injury-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/grand-junction-car-accident-lawyer",
+    "destination": "/grand-junction/car-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/grand-junction-personal-injury-lawyer",
+    "destination": "/grand-junction/personal-injury-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/greeley-car-accident-lawyer",
+    "destination": "/greeley/car-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/herniated-disc-settlement-colorado",
+    "destination": "/herniated-disc-settlement/",
+    "statusCode": 301
+  },
+  {
+    "source": "/i-70-mountain-corridor-accident-lawyer",
+    "destination": "/i-70-mountain-corridor/accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/lakewood-car-accident-lawyer",
+    "destination": "/lakewood/car-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/longmont-car-accident-lawyer",
+    "destination": "/longmont/car-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/pueblo-car-accident-lawyer",
+    "destination": "/pueblo/car-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/pueblo-personal-injury-lawyer",
+    "destination": "/pueblo/personal-injury-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/should-i-accept-first-settlement-offer-colorado",
+    "destination": "/should-i-accept-first-settlement-offer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/slip-and-fall-settlement-colorado",
+    "destination": "/slip-and-fall-settlement/",
+    "statusCode": 301
+  },
+  {
+    "source": "/tbi-settlement-value-colorado",
+    "destination": "/tbi-settlement-value/",
+    "statusCode": 301
+  },
+  {
+    "source": "/thornton-car-accident-lawyer",
+    "destination": "/thornton/car-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/vail-ski-accident-lawyer",
+    "destination": "/vail/ski-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/westminster-car-accident-lawyer",
+    "destination": "/westminster/car-accident-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-is-my-case-worth-colorado",
+    "destination": "/case-value/",
+    "statusCode": 301
+  },
+  {
+    "source": "/whiplash-settlement-amount-colorado",
+    "destination": "/whiplash-settlement-amount/",
+    "statusCode": 301
+  },
+  {
+    "source": "/wrongful-death-settlement-colorado",
+    "destination": "/wrongful-death-settlement/",
+    "statusCode": 301
+  }
+]
