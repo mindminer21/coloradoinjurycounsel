@@ -17,7 +17,8 @@ export const metadata: Metadata = {
     images: [{ url: "/brand/whiteford_og_logo.jpg", width: 1200, height: 630, alt: "Whiteford" }],
   },
   twitter: { card: "summary_large_image" },
-  robots: { index: true, follow: true },
+  // TEMP NOINDEX until pillar architecture + attorney review complete — flip back and request indexing when ready
+  robots: { index: false, follow: false },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

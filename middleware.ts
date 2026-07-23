@@ -59,12 +59,12 @@ export async function middleware(req: NextRequest) {
       return res;
     }
     return new NextResponse(gatePage(true, next), {
-      status: 401, headers: { "content-type": "text/html; charset=utf-8" },
+      status: 401, headers: { "content-type": "text/html; charset=utf-8", "X-Robots-Tag": "noindex, nofollow" },
     });
   }
 
   const next = url.pathname + url.search;
   return new NextResponse(gatePage(false, next), {
-    status: 401, headers: { "content-type": "text/html; charset=utf-8" },
+    status: 401, headers: { "content-type": "text/html; charset=utf-8", "X-Robots-Tag": "noindex, nofollow" },
   });
 }
